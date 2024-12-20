@@ -1,0 +1,126 @@
+#header {
+    text-align: center;
+    margin-top: 0px;
+    padding: 1px;
+    background-color: rgb(164, 90, 234);
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#itemTable {
+    text-align: center;
+    width: 800px;
+    padding-bottom: 5px;
+}
+
+.img {
+    height: 130px;
+    width: 150px;
+    padding: 20px;
+    padding-top: 8px;
+    padding-bottom: 3px;
+}
+
+
+.imgText {
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.imgText:hover {
+    color: rgb(135, 10, 252);
+    text-decoration: underline;
+}
+
+#div2 {
+    text-align: center;
+    background-color: lightgray;
+    padding-bottom: 45px;
+}
+
+#extraimg {
+    margin-top: 50px;
+    text-align: center;
+    width: 950px;
+    margin-bottom: 10px;
+}
+
+#saleheading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-weight: 600px;
+    font-size: 35px;
+}
+
+#sale {
+    text-align: left;
+    width: 1050px;
+    height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+#sale td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#thead {
+    text-align: center;
+    background-color: rgb(185, 117, 249);
+}
+
+.columnTitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+
+.saledata {
+    padding: 12px;
+}
+
+#div3 {
+    color: rgb(84, 83, 83);
+    margin-left: 15px;
+}
+
+footer {
+    padding: 2px;
+    margin-top: 5px;
+    background-color: rgb(47, 47, 47);
+}
+
+
+
+#contact{
+    padding-left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.contact:link {
+    color: white;
+    text-decoration: none;
+}
+
+.contact:hover{
+    text-decoration: underline;
+}
+
+.contact:visited{
+    color: white;
+}
+
+#name {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
